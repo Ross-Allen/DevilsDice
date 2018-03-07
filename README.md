@@ -1,7 +1,7 @@
 
 # Devils Dice
 
-Devils Dice is a mini-program written as a school assignment 
+Devils Dice is a mini-program game that is simular to [farkle](https://en.wikipedia.org/wiki/Farkle). Player goes against the so-called devil gaining points as a single die is rolled. Player can choose to roll or hold points. If a number one is rolled, the player forfeits the die and loses his/hers accumulated points. First one to reach the high score wins.  
 
 ## IMPORTANT
 
