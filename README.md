@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Devils Dice
 
 Devils Dice is a mini-program written as a school assignment 
@@ -16,9 +16,6 @@ run main.cpp with prefered C++ IDE.
 
 * [CLion](https://www.jetbrains.com/clion/) - C++ IDE used.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
@@ -28,6 +25,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Acknowledgments
 
 Again, some starter-code was provided by Utah State Universities CS department for the purpose of this assignment. 
-=======
-# DevilsDice
->>>>>>> 054b14f570acca1d2b271fce7993c5c55ca5a55d
+
