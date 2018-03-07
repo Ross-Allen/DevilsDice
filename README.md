@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Devils Dice
 
 Devils Dice is a mini-program written as a school assignment 
@@ -27,3 +28,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Acknowledgments
 
 Again, some starter-code was provided by Utah State Universities CS department for the purpose of this assignment. 
+=======
+# DevilsDice
+>>>>>>> 054b14f570acca1d2b271fce7993c5c55ca5a55d
