@@ -82,7 +82,7 @@ void playGame(void) {
       isGameOver = true;
       didPlayerWin = true;
     }
-    // TODO - Handle player actions here, updating provided variables when needed
+
 
     if (devilGetsATurn) {
       devilTotalScore += devilTurn(playerTotalScore, devilTotalScore);
@@ -115,7 +115,6 @@ int roll(bool isPlayerTurn) {
   } else if (isPlayerTurn == false) {
     cout << "Devil rolled a " << roll << endl;
   }
-  // TODO - Assign random dice roll and print out appropriate message
   return roll;
 }
 
@@ -127,8 +126,6 @@ char getActionFromUser(void) {
   char input;
   cout << "Hold[h], roll[r], or forfeit[f]: ";
   cin >> input;
-
-  // TODO - Prompt for and get user input
 
   return input;
 }
